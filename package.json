@@ -11,5 +11,14 @@
   "dependencies": {
     "@slack/client": "^5.0.2",
     "@slack/web-api": "^5.11.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janelane666/food_bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/janelane666/food_bot/issues"
+  },
+  "homepage": "https://github.com/janelane666/food_bot#readme"
 }
