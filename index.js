@@ -1,9 +1,9 @@
-const { WebClient } = require('@slack/web-api');
+/* const { WebClient } = require('@slack/web-api');
 
 console.log('Getting started with Node Slack SDK');
 
 const web = new WebClient(process.env.SLACK_TOKEN);
-
+*/
 var http = require('http');
 
 function requestListener(request, response) {
